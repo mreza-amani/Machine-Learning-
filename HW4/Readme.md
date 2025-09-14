@@ -44,29 +44,8 @@ Both notebooks require Python 3.8+ and the following libraries:
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
 
-🚀 How to Run
-
-Clone this repository:
-
-git clone https://github.com/your-username/MachineLearning-Projects.git
-cd MachineLearning-Projects
 
 
-For the Air Pollution notebook, place the dataset file in the same directory:
-
-PRSA_data_2010.1.1-2014.12.31.csv
-
-
-Launch Jupyter Notebook:
-
-jupyter notebook
-
-
-Open and run either:
-
-MP3_AmaniTaheri.ipynb (Air Pollution Analysis)
-
-5ef00ad2-2866-40f4-b5de-1800196dd903.ipynb (Perceptron & Neural Models)
 
 📊 Contents Overview
 
