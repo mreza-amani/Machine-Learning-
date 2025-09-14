@@ -1,4 +1,3 @@
-README.md 
 # Air Pollution Data Analysis (MP3 Assignment)
 
 This repository contains the notebook **`MP3_AmaniTaheri.ipynb`**, which explores and analyzes air quality data (PM2.5) in Beijing.  
