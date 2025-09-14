@@ -94,6 +94,3 @@ This repository is for educational purposes.
 Feel free to fork and adapt it for your own learning.
 
 
----
-
-👉 Do you want me to merge both notebooks under **one project theme** (like *"ML Coursework"*) or keep the
