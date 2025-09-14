@@ -62,7 +62,7 @@ Descriptive statistics & correlation heatmaps
 
 Visualizations of environmental features vs. PM2.5
 
-🔹 Perceptron & Neural Models (5ef00ad2-2866-40f4-b5de-1800196dd903.ipynb)
+🔹 Perceptron & Neural Models (MP4Q1.ipynb-MP4Q2.ipynb-MP4Q3.ipynb)
 
 Focus: Foundational neural network models from scratch.
 
@@ -80,7 +80,7 @@ Triangle region classification using McCulloch-Pitts neurons
 ├── Amani_Taheri_Q1Q2.ipynb                 # Classification models
 ├── Sales_DT.ipynb                          # Decision Tree classifier
 ├── MP3_AmaniTaheri.ipynb                   # Air Pollution EDA
-├── 5ef00ad2-2866-40f4-b5de-1800196dd903.ipynb   # Perceptron & McCulloch-Pitts
+├── MP4Q1.ipynb-MP4Q2.ipynb-MP4Q3.ipynb     # Perceptron & McCulloch-Pitts
 ├── README.md                               # General documentation
 
 🛠️ Installation
