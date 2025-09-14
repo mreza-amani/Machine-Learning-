@@ -1,4 +1,3 @@
-READ ME
 # Machine Learning & Data Analysis Projects
 
 This repository contains two Jupyter notebooks that demonstrate different aspects of **machine learning** and **data analysis**.  
