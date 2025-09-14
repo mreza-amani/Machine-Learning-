@@ -73,7 +73,5 @@ This project is for educational purposes only.
 Feel free to fork and adapt for your own learning.
 
 
----
 
-Would you like me to make the README **more academic (report-style)** or **more open-source project style** (with badges, contribution guidelines, etc.)? ​:contentReference[oaicite:0]{index=0}​
 
