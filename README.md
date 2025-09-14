@@ -85,12 +85,6 @@ Triangle region classification using McCulloch-Pitts neurons
 
 🛠️ Installation
 
-Clone the repo and install dependencies:
-
-git clone https://github.com/your-username/ml-notebook-collection.git
-cd ml-notebook-collection
-pip install -r requirements.txt
-
 Requirements
 
 Python 3.8+
